@@ -29,6 +29,7 @@ var (
 	CommitSHA = ""
 
 	readmeNames  = []string{"README.md", "README"}
+	branchNames  = []string{"master", "main"}
 	configFile   string
 	pager        bool
 	style        string
